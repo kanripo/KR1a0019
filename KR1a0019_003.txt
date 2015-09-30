@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 吳園周易解
-#+DATE: 2015-09-23 09:34:16
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:53:56.342810
+#+PROPERTY: ID KR1a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1a0019_WYG_003-1a>¶
 欽定四庫全書¶
 　吳園周易解卷三¶
@@ -398,4 +400,3 @@
 　¶
 　¶
 　吳園周易解卷三¶
-

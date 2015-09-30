@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 吳園周易解
-#+DATE: 2015-09-23 09:34:16
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 21:53:56.444837
+#+PROPERTY: ID KR1a0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 附錄
 <pb:KR1a0019_WYG_010-1a>¶
 吳園周易解附錄¶
 　　序論一¶
@@ -270,4 +272,3 @@
 　此之不恤而區區唐虞是襲此古人之所以有天下¶
 　事不如意者十常八九之嘆非大人孰能膺千載之¶
 　運乎¶
-
